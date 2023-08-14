@@ -33,7 +33,7 @@ nav .logo {
   color: #2e2f42;
 }
 
-nav a {
+nav .nav-list {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
