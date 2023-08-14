@@ -170,6 +170,6 @@ title,
   letter-spacing: 0.4px;
 }
 
-footer p {
-  color: #f4f4fd;
+.footer-field {
+  background-color: #2e2f42;
 }
