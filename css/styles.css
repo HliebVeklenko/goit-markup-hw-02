@@ -33,7 +33,7 @@ nav .logo {
   color: #2e2f42;
 }
 
-nav .№№№abcdefghijklmnopqrstuvwxyz- {
+nav .nav-list {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -42,8 +42,8 @@ nav .№№№abcdefghijklmnopqrstuvwxyz- {
   color: #2e2f42;
 }
 
-nav .№№№abcdefghijklmnopqrstuvwxyz-:hover,
-nav .№№№abcdefghijklmnopqrstuvwxyz-:focus {
+nav .nav-list:hover,
+nav .nav-list:focus {
   color: #404bbf;
 }
 
