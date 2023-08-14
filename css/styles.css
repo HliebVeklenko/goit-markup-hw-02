@@ -9,7 +9,7 @@ a {
   text-decoration: none;
 }
 
-nav .logo {
+.logo {
   color: #4d5ae5;
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
@@ -25,11 +25,12 @@ nav .logo {
 }
 
 .nav-list {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+
   color: #2e2f42;
 }
 
