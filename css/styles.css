@@ -38,8 +38,8 @@ nav .logo {
   color: #2e2f42;
 }
 
-nav .nav-list:hover,
-nav .nav-list:focus {
+.nav-list:hover,
+.nav-list:focus {
   color: #404bbf;
 }
 
