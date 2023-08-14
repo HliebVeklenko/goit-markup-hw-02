@@ -29,7 +29,7 @@ nav .logo {
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
@@ -69,6 +69,11 @@ title,
   line-height: 1.2;
   letter-spacing: 0.4px;
   color: #2e2f42;
+}
+
+.features-list-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .list-text {
