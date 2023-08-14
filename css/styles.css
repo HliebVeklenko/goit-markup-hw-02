@@ -38,6 +38,8 @@ a {
 .nav-list:hover,
 .nav-list:focus {
   color: #404bbf;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 address {
