@@ -40,7 +40,7 @@ a {
   color: #f4f4fd;
 }
 
-address {
+.address {
   font-style: normal;
 }
 
@@ -100,6 +100,7 @@ title,
   line-height: 1.5;
   letter-spacing: 0.64px;
   color: white;
+  cursor: pointer;
 }
 
 .hero-button:hover,
