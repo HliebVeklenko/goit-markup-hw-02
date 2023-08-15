@@ -27,6 +27,11 @@ a {
   letter-spacing: 0.32px;
 }
 
+.nav-list:hover,
+.nav-list:focus {
+  color: #404bbf;
+}
+
 .logo-studio {
   color: #2e2f42;
 }
@@ -35,17 +40,14 @@ a {
   color: #f4f4fd;
 }
 
-.nav-list:hover,
-.nav-list:focus {
-  color: #404bbf;
-}
-
 address {
   font-style: normal;
 }
 
 .header-address-link {
   color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .header-address-link:hover,
@@ -92,7 +94,6 @@ title,
 .hero-button {
   font-family: "Roboto", sans-serif;
   background-color: #4d5ae5;
-  cursor: pointer;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
