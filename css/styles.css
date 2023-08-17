@@ -8,6 +8,10 @@ a {
   text-decoration: none;
 }
 
+ul {
+  list-style: none;
+}
+
 .logo {
   color: #4d5ae5;
   text-transform: uppercase;
